@@ -1,0 +1,5 @@
+public class cmfzapp{
+   public static void main(String[] args){
+   system.out.printil("hello");
+   }
+}
